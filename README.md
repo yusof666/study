@@ -1,5 +1,9 @@
 # study
-All the files are written by Yusof(me), a math major. I know I am far from an expert of any area concerning computer science, but I still want to write down everything
-I have learned. I am planning on explaining some basic machine learning algorithms mathematically along with the code to achive them. Besides, I may craete a section 
-particularly for mathematics, including linear algebra, functional analysis and differential geometry. Basically the mathematics section is just a concise version of my
-notes.
+Hello, I'm Yusof, a math major at Chongqing University in his third year.
+I'm currently learning basic machine leaning algorithms. As a way of enhancing my memory for the knowledge of this part, I will try to 
+introduce the mathematical backgrouds of these algorithms and implement them by myself using Python.
+Moreover, I'm also learning communication theory so I will try to implement some algorithms in this area using C.
+Finally. As a math major, I may introduce some useful or beautiful theories in mathematics. Basically it is just uploading a part of my
+notes for functional analysis and differential geometry.
+These are the three things I want to do.
+Hope I can do it. Fingers crossed haha.
