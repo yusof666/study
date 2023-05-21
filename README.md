@@ -1,5 +1,5 @@
 # study
-Hello, I'm Yusof, a math major at Chongqing University in his third year.
+Hello, I'm Yusof, a math major at Chongqing University in his third year./n
 I'm currently learning basic machine leaning algorithms. As a way of enhancing my memory for the knowledge of this part, I will try to 
 introduce the mathematical backgrouds of these algorithms and implement them by myself using Python.
 Moreover, I'm also learning communication theory so I will try to implement some algorithms in this area using C.
